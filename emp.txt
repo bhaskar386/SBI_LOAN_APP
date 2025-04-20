@@ -1,0 +1,3 @@
+Class emp{
+int a=10;
+}
